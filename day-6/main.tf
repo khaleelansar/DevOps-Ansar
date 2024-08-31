@@ -3,7 +3,7 @@ provider "aws" {
 }
  
 resource "aws_s3_bucket" "ansar" {
-    bucket = "ansarrrrrrrrrrr"
+    bucket = "ansarrrrrrrrr"
   
 } 
 resource "aws_dynamodb_table" "mytable" { 
